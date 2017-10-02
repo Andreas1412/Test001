@@ -1,3 +1,11 @@
 public class kuda {
 
+  private Double hp;
+  
+  public void addPower(){
+      
+      this.hp += 100; 
+  
+  }
+
 }
